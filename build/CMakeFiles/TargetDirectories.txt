@@ -1,0 +1,3 @@
+/Users/manikant/Cmake/build/CMakeFiles/hello.dir
+/Users/manikant/Cmake/build/CMakeFiles/edit_cache.dir
+/Users/manikant/Cmake/build/CMakeFiles/rebuild_cache.dir
